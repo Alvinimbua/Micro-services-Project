@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Benki loans related Prod APIs "
+  contactDetails:
+    name: "Stella alvo - Product Owner"
+    email: "stella@benki.com"
+  onCallSupport:
+    - (254) 999-1234
+    - (254) 999-1345

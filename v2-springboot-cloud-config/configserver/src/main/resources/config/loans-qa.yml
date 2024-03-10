@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Benki loans related QA APIs "
+  contactDetails:
+    name: "Stella best - QA tester"
+    email: "stella@benki.com"
+  onCallSupport:
+    - (254) 999-1234
+    - (254) 999-1345

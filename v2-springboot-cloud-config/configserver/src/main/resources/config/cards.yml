@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Benki cards related local APIs "
+  contactDetails:
+    name: "Dragos Lech - Developer"
+    email: "dragos@benki.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932

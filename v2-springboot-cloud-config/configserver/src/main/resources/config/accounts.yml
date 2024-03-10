@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Benki accounts related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@benki.com"
+  onCallSupport:
+    - (254) 555-1234
+    - (254) 523-1345

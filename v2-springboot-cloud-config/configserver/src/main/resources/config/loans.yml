@@ -1,0 +1,11 @@
+build:
+    version: "3.0"
+
+loans:
+  message: "Welcome to Benki loans related local APIs "
+  contactDetails:
+    name: "Dragos Lech - Developer"
+    email: "dragos@benki.com"
+  onCallSupport:
+    - (412) 000-3491
+    - (915) 000-1932
